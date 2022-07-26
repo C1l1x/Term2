@@ -1,0 +1,20 @@
+
+Plant 0 :
+Name: Roza
+Price: 1
+Count: 1
+
+Plant 0 :
+Name: a
+Price: 1
+Count: 1
+
+Plant 1 :
+Name: s
+Price: 1
+Count: 1
+
+Plant 1 :
+Name: asda
+Price: 123
+Count: 2
